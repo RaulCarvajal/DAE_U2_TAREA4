@@ -2,39 +2,48 @@
 Número de control: 13400396
 Nombre: Raúl Rafael Carvajal Gutiérrez
 Calificación: 98
------------------------------------------#2
+-----------------------------------------
+#2
 Número de control: 13400397
 Nombre: Eduardo Antonio Barbosa Ortiz
 Calificación: 90
------------------------------------------#3
+-----------------------------------------
+#3
 Número de control: 13400398
 Nombre: Julio Cesar Bautista Monsalvo
 Calificación: 94
------------------------------------------#4
+-----------------------------------------
+#4
 Número de control: 13400399
 Nombre: Oscar Abraham Ibañez Loreto
 Calificación: 88
------------------------------------------#5
+-----------------------------------------
+#5
 Número de control: 13400400
 Nombre: Juan Daniel Medrano Barajas
 Calificación: 98
------------------------------------------#6
+-----------------------------------------
+#6
 Número de control: 13400401
 Nombre: Eduado Flores de la Torre
 Calificación: 97
------------------------------------------#7
+-----------------------------------------
+#7
 Número de control: 13400402
 Nombre: Juan Daniel Jimenez Ortiz
 Calificación: 79
------------------------------------------#8
+-----------------------------------------
+#8
 Número de control: 13400403
 Nombre: Norma Angelica Brambila Rico
 Calificación: 80
------------------------------------------#9
+-----------------------------------------
+#9
 Número de control: 13400404
 Nombre: Cesar Alexis Delgadillo Saucedo
 Calificación: 75
------------------------------------------#10
+-----------------------------------------
+#10
 Número de control: 13400405
 Nombre: Francisco Alvarado Jimenez
 Calificación: 94
